@@ -12,10 +12,6 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
-		<Item Name="Project Documentation" Type="Folder">
-			<Property Name="NI.SortType" Type="Int">0</Property>
-			<Item Name="Simple NI-USRP Streaming.html" Type="Document" URL="../documentation/Simple NI-USRP Streaming.html"/>
-		</Item>
 		<Item Name="Rx/Tx" Type="Folder">
 			<Property Name="NI.SortType" Type="Int">0</Property>
 			<Item Name="Details" Type="Folder">
