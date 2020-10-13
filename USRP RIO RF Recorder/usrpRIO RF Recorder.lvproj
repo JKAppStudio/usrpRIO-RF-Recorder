@@ -4376,6 +4376,9 @@
 				</Item>
 			</Item>
 		</Item>
+		<Item Name="RF Reader (Host).vi" Type="VI" URL="../Host/RF Reader (Host).vi"/>
+		<Item Name="Get Config.vi" Type="VI" URL="../Host/Recorder SubVIs/Get Config.vi"/>
+		<Item Name="Read File Preamble.vi" Type="VI" URL="../Host/Recorder SubVIs/Read File Preamble.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Property Name="NI.SortType" Type="Int">2</Property>
 			<Item Name="instr.lib" Type="Folder">
